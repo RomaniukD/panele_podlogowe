@@ -1,7 +1,7 @@
 function oblicz(){
   var laminowane= document.getElementById("laminowane").checked;
   var winylowe= document.getElementById("winylowe").checked;
-  var deska= document.getElementById("deska").checked;
+  var deska= document.getElementById("podlogowa").checked;
 
   var szerokosc= document.getElementById("szerokosc").value;
   var dlugosc= document.getElementById("dlugosc").value;
